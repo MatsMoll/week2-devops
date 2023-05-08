@@ -1,1 +1,1 @@
-# corise-zignite-devops-cc
+# Intro to DevOps - Week 2 Project Starter Code
